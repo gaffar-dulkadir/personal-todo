@@ -3,7 +3,7 @@ name: 📋 Bana Assign Edilmiş Issue Özeti
 on:
   schedule:
     # Her gün saat 08:00 Istanbul saati (05:00 UTC)
-    - cron: '0 5 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch: # Elle de tetikleyebilmek için
 
 jobs:
