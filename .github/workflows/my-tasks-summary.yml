@@ -1,0 +1,81 @@
+name: 📋 Bana Assign Edilmiş Issue Özeti
+
+on:
+  schedule:
+    # Her gün saat 08:00 Istanbul saati (05:00 UTC)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Elle de tetikleyebilmek için
+
+jobs:
+  update-my-tasks:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repo'yu Çek
+        uses: actions/checkout@v4
+
+      - name: Assigned Issue'ları Topla ve MY-TASKS.md Güncelle
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT gerekli, aşağıya bakın
+          script: |
+            const fs = require('fs');
+            const USERNAME = 'gaffar-dulkadir'; // ← buraya yaz
+
+            // Bana assign edilmiş tüm açık issue'ları çek
+            const result = await github.rest.search.issuesAndPullRequests({
+              q: `assignee:${USERNAME} is:issue is:open`,
+              per_page: 100,
+              sort: 'updated',
+              order: 'desc'
+            });
+
+            const issues = result.data.items;
+
+            // Repo'ya göre grupla
+            const grouped = {};
+            for (const issue of issues) {
+              const repoName = issue.repository_url.replace('https://api.github.com/repos/', '');
+              if (!grouped[repoName]) grouped[repoName] = [];
+              grouped[repoName].push(issue);
+            }
+
+            // Markdown oluştur
+            const today = new Date().toLocaleDateString('tr-TR', {
+              timeZone: 'Europe/Istanbul',
+              weekday: 'long',
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+            });
+
+            let md = `# 📋 Görev Özetim\n\n`;
+            md += `> 🕐 Son güncelleme: ${today}\n\n`;
+            md += `**Toplam açık görev: ${issues.length}**\n\n---\n\n`;
+
+            if (issues.length === 0) {
+              md += `🎉 Tüm görevler tamamlandı!\n`;
+            } else {
+              for (const [repo, repoIssues] of Object.entries(grouped)) {
+                md += `## 📁 ${repo} (${repoIssues.length})\n\n`;
+                for (const issue of repoIssues) {
+                  const labels = issue.labels.map(l => `\`${l.name}\``).join(' ');
+                  const updatedAt = new Date(issue.updated_at).toLocaleDateString('tr-TR', { timeZone: 'Europe/Istanbul' });
+                  md += `- [ ] **[#${issue.number} ${issue.title}](${issue.html_url})**\n`;
+                  md += `  - 🏷️ ${labels || 'label yok'} · 🕐 ${updatedAt}\n\n`;
+                }
+              }
+            }
+
+            fs.writeFileSync('MY-TASKS.md', md);
+            console.log(`${issues.length} issue yazıldı.`);
+
+      - name: Değişiklikleri Push Et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add MY-TASKS.md
+          git diff --staged --quiet || git commit -m "🔄 MY-TASKS.md güncellendi"
+          git push
