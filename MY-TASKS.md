@@ -49,9 +49,9 @@
 - [ ] **[#2 Sticker hazırlanılması.](https://github.com/itu-vcamp-team/management-core-team/issues/2)**
   - 🏷️ label yok · 🕐 25.09.2025
 
-## 📁 itu-vcamp-team/VCAMP-Project-Management (1)
+## 📁 itu-vcamp-team/VCAMP-Project-Tracker (1)
 
-- [ ] **[#16 Week 1 Plan](https://github.com/itu-vcamp-team/VCAMP-Project-Management/issues/16)**
+- [ ] **[#16 Week 1 Plan](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/16)**
   - 🏷️ label yok · 🕐 14.05.2026
 
 ## 📁 itu-vcamp-team/zinzino (5)
