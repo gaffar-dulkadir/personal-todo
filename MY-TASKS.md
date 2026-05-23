@@ -2,9 +2,17 @@
 
 > 🕐 Son güncelleme: 23 Mayıs 2026 Cumartesi
 
-**Toplam açık görev: 20**
+**Toplam açık görev: 21**
 
 ---
+
+## 📁 itu-vcamp-team/VCAMP-Project-Tracker (2)
+
+- [ ] **[#30 Websitenin publish edilmesi](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/30)**
+  - 🏷️ label yok · 🕐 23.05.2026
+
+- [ ] **[#16 Week 1 Plan](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/16)**
+  - 🏷️ label yok · 🕐 14.05.2026
 
 ## 📁 gaffar-dulkadir/personal-todo (10)
 
@@ -48,11 +56,6 @@
 
 - [ ] **[#2 Sticker hazırlanılması.](https://github.com/itu-vcamp-team/management-core-team/issues/2)**
   - 🏷️ label yok · 🕐 25.09.2025
-
-## 📁 itu-vcamp-team/VCAMP-Project-Tracker (1)
-
-- [ ] **[#16 Week 1 Plan](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/16)**
-  - 🏷️ label yok · 🕐 14.05.2026
 
 ## 📁 itu-vcamp-team/zinzino (5)
 
