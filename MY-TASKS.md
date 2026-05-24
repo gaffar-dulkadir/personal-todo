@@ -8,11 +8,11 @@
 
 ## 📁 itu-vcamp-team/VCAMP-Project-Tracker (2)
 
+- [ ] **[#16 ..](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/16)**
+  - 🏷️ label yok · 🕐 24.05.2026
+
 - [ ] **[#30 Websitenin publish edilmesi](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/30)**
   - 🏷️ label yok · 🕐 23.05.2026
-
-- [ ] **[#16 Week 1 Plan](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/16)**
-  - 🏷️ label yok · 🕐 14.05.2026
 
 ## 📁 gaffar-dulkadir/personal-todo (10)
 
