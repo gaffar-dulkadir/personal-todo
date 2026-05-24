@@ -1,6 +1,6 @@
 # 📋 Görev Özetim
 
-> 🕐 Son güncelleme: 24 Mayıs 2026 Pazar
+> 🕐 Son güncelleme: 25 Mayıs 2026 Pazartesi
 
 **Toplam açık görev: 21**
 
