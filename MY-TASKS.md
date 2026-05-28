@@ -2,9 +2,23 @@
 
 > 🕐 Son güncelleme: 28 Mayıs 2026 Perşembe
 
-**Toplam açık görev: 21**
+**Toplam açık görev: 22**
 
 ---
+
+## 📁 itu-vcamp-team/management-core-team (4)
+
+- [ ] **[#11 Etkinlik takip için bir format hazırlandı, revize edilmesi ve tam olarak neye hizmet edeceğinin belirlenmesi lazım.](https://github.com/itu-vcamp-team/management-core-team/issues/11)**
+  - 🏷️ label yok · 🕐 28.05.2026
+
+- [ ] **[#4 test2](https://github.com/itu-vcamp-team/management-core-team/issues/4)**
+  - 🏷️ label yok · 🕐 19.05.2026
+
+- [ ] **[#3 test](https://github.com/itu-vcamp-team/management-core-team/issues/3)**
+  - 🏷️ label yok · 🕐 19.05.2026
+
+- [ ] **[#2 Sticker hazırlanılması.](https://github.com/itu-vcamp-team/management-core-team/issues/2)**
+  - 🏷️ label yok · 🕐 25.09.2025
 
 ## 📁 itu-vcamp-team/VCAMP-Project-Tracker (2)
 
@@ -45,17 +59,6 @@
 
 - [ ] **[#1 Özel sunum ve Döküman Hazırlanılması](https://github.com/gaffar-dulkadir/personal-todo/issues/1)**
   - 🏷️ label yok · 🕐 19.05.2026
-
-## 📁 itu-vcamp-team/management-core-team (3)
-
-- [ ] **[#4 test2](https://github.com/itu-vcamp-team/management-core-team/issues/4)**
-  - 🏷️ label yok · 🕐 19.05.2026
-
-- [ ] **[#3 test](https://github.com/itu-vcamp-team/management-core-team/issues/3)**
-  - 🏷️ label yok · 🕐 19.05.2026
-
-- [ ] **[#2 Sticker hazırlanılması.](https://github.com/itu-vcamp-team/management-core-team/issues/2)**
-  - 🏷️ label yok · 🕐 25.09.2025
 
 ## 📁 itu-vcamp-team/zinzino (5)
 
