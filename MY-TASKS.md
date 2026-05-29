@@ -2,23 +2,17 @@
 
 > 🕐 Son güncelleme: 29 Mayıs 2026 Cuma
 
-**Toplam açık görev: 23**
+**Toplam açık görev: 20**
 
 ---
 
-## 📁 itu-vcamp-team/management-core-team (5)
+## 📁 itu-vcamp-team/management-core-team (3)
 
 - [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-core-team/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
 
 - [ ] **[#11 Etkinlik takip için bir format hazırlandı, revize edilmesi ve tam olarak neye hizmet edeceğinin belirlenmesi lazım.](https://github.com/itu-vcamp-team/management-core-team/issues/11)**
   - 🏷️ label yok · 🕐 28.05.2026
-
-- [ ] **[#4 test2](https://github.com/itu-vcamp-team/management-core-team/issues/4)**
-  - 🏷️ label yok · 🕐 19.05.2026
-
-- [ ] **[#3 test](https://github.com/itu-vcamp-team/management-core-team/issues/3)**
-  - 🏷️ label yok · 🕐 19.05.2026
 
 - [ ] **[#2 Sticker hazırlanılması.](https://github.com/itu-vcamp-team/management-core-team/issues/2)**
   - 🏷️ label yok · 🕐 25.09.2025
@@ -79,9 +73,4 @@
 
 - [ ] **[#35 routes and endpoints creating](https://github.com/itu-vcamp-team/zinzino/issues/35)**
   - 🏷️ `backend` · 🕐 15.11.2025
-
-## 📁 itu-vcamp-team/ai-shell-call-project (1)
-
-- [ ] **[#74 whatssapp grupların listesinin excell olarak listelenmesi](https://github.com/itu-vcamp-team/ai-shell-call-project/issues/74)**
-  - 🏷️ label yok · 🕐 25.09.2025
 
