@@ -2,11 +2,14 @@
 
 > 🕐 Son güncelleme: 11 Haziran 2026 Perşembe
 
-**Toplam açık görev: 20**
+**Toplam açık görev: 21**
 
 ---
 
-## 📁 itu-vcamp-team/management-core-team (3)
+## 📁 itu-vcamp-team/management-core-team (4)
+
+- [ ] **[#75 hangi durumlarda genel toplantı, çalışma saatinin yapılmayacağının belirlenmesi](https://github.com/itu-vcamp-team/management-core-team/issues/75)**
+  - 🏷️ label yok · 🕐 11.06.2026
 
 - [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-core-team/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
