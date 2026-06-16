@@ -2,11 +2,14 @@
 
 > 🕐 Son güncelleme: 16 Haziran 2026 Salı
 
-**Toplam açık görev: 21**
+**Toplam açık görev: 22**
 
 ---
 
-## 📁 itu-vcamp-team/management-core-team (4)
+## 📁 itu-vcamp-team/management-core-team (5)
+
+- [ ] **[#83 Aşağıda ismi sayılı kişilerin takımla ilişiğinin kesilmesi.](https://github.com/itu-vcamp-team/management-core-team/issues/83)**
+  - 🏷️ label yok · 🕐 16.06.2026
 
 - [ ] **[#75 hangi durumlarda genel toplantı, çalışma saatinin yapılmayacağının belirlenmesi](https://github.com/itu-vcamp-team/management-core-team/issues/75)**
   - 🏷️ label yok · 🕐 11.06.2026
