@@ -9,7 +9,7 @@
 ## 📁 itu-vcamp-team/management-core-team (6)
 
 - [ ] **[#83 Aşağıda ismi sayılı kişilerin takımla ilişiğinin kesilmesi.](https://github.com/itu-vcamp-team/management-core-team/issues/83)**
-  - 🏷️ label yok · 🕐 16.06.2026
+  - 🏷️ label yok · 🕐 17.06.2026
 
 - [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-core-team/issues/84)**
   - 🏷️ label yok · 🕐 16.06.2026
