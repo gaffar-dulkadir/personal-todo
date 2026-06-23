@@ -2,7 +2,7 @@
 
 > 🕐 Son güncelleme: 23 Haziran 2026 Salı
 
-**Toplam açık görev: 13**
+**Toplam açık görev: 12**
 
 ---
 
@@ -32,20 +32,17 @@
 - [ ] **[#1 Özel sunum ve Döküman Hazırlanılması](https://github.com/gaffar-dulkadir/personal-todo/issues/1)**
   - 🏷️ label yok · 🕐 19.05.2026
 
-## 📁 itu-vcamp-team/management-core-team (5)
+## 📁 itu-vcamp-team/management-todo (4)
 
-- [ ] **[#75 hangi durumlarda genel toplantı, çalışma saatinin yapılmayacağının belirlenmesi](https://github.com/itu-vcamp-team/management-core-team/issues/75)**
+- [ ] **[#75 hangi durumlarda genel toplantı, çalışma saatinin yapılmayacağının belirlenmesi](https://github.com/itu-vcamp-team/management-todo/issues/75)**
   - 🏷️ label yok · 🕐 22.06.2026
 
-- [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-core-team/issues/84)**
+- [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-todo/issues/84)**
   - 🏷️ label yok · 🕐 22.06.2026
 
-- [ ] **[#86 Kişilerin hangi projelerde ve yönetim ekiplerinde olduğu döküman](https://github.com/itu-vcamp-team/management-core-team/issues/86)**
+- [ ] **[#86 Kişilerin hangi projelerde ve yönetim ekiplerinde olduğu döküman](https://github.com/itu-vcamp-team/management-todo/issues/86)**
   - 🏷️ label yok · 🕐 18.06.2026
 
-- [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-core-team/issues/19)**
-  - 🏷️ label yok · 🕐 28.05.2026
-
-- [ ] **[#11 Etkinlik takip için bir format hazırlandı, revize edilmesi ve tam olarak neye hizmet edeceğinin belirlenmesi lazım.](https://github.com/itu-vcamp-team/management-core-team/issues/11)**
+- [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
 
