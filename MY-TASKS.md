@@ -2,7 +2,7 @@
 
 > 🕐 Son güncelleme: 23 Haziran 2026 Salı
 
-**Toplam açık görev: 19**
+**Toplam açık görev: 13**
 
 ---
 
@@ -48,26 +48,4 @@
 
 - [ ] **[#11 Etkinlik takip için bir format hazırlandı, revize edilmesi ve tam olarak neye hizmet edeceğinin belirlenmesi lazım.](https://github.com/itu-vcamp-team/management-core-team/issues/11)**
   - 🏷️ label yok · 🕐 28.05.2026
-
-## 📁 itu-vcamp-team/VCAMP-Project-Tracker (1)
-
-- [ ] **[#16 ..](https://github.com/itu-vcamp-team/VCAMP-Project-Tracker/issues/16)**
-  - 🏷️ label yok · 🕐 24.05.2026
-
-## 📁 itu-vcamp-team/zinzino (5)
-
-- [ ] **[#31 Postgre veya firebase araştırılması ve seçilmesi](https://github.com/itu-vcamp-team/zinzino/issues/31)**
-  - 🏷️ `backend` · 🕐 15.11.2025
-
-- [ ] **[#32 Database kurgusu için 1 schema da 5 table ın içeriklerinin belirlenilmesi](https://github.com/itu-vcamp-team/zinzino/issues/32)**
-  - 🏷️ `backend` · 🕐 15.11.2025
-
-- [ ] **[#33 ORM schema ALCHEMY veya direkt mobil uygulama ierisinden api geliştirilme kararı](https://github.com/itu-vcamp-team/zinzino/issues/33)**
-  - 🏷️ `backend` · 🕐 15.11.2025
-
-- [ ] **[#34 Digital Ocean veya alternatif araştırılması ve denenmesi](https://github.com/itu-vcamp-team/zinzino/issues/34)**
-  - 🏷️ `backend` · 🕐 15.11.2025
-
-- [ ] **[#35 routes and endpoints creating](https://github.com/itu-vcamp-team/zinzino/issues/35)**
-  - 🏷️ `backend` · 🕐 15.11.2025
 
