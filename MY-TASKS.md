@@ -2,9 +2,17 @@
 
 > 🕐 Son güncelleme: 25 Haziran 2026 Perşembe
 
-**Toplam açık görev: 12**
+**Toplam açık görev: 14**
 
 ---
+
+## 📁 itu-vcamp-team/VCAMP-Website (2)
+
+- [ ] **[#116 Old Repo](https://github.com/itu-vcamp-team/VCAMP-Website/issues/116)**
+  - 🏷️ label yok · 🕐 25.06.2026
+
+- [ ] **[#112 Google Index](https://github.com/itu-vcamp-team/VCAMP-Website/issues/112)**
+  - 🏷️ label yok · 🕐 25.06.2026
 
 ## 📁 gaffar-dulkadir/personal-todo (8)
 
