@@ -2,9 +2,26 @@
 
 > 🕐 Son güncelleme: 2 Temmuz 2026 Perşembe
 
-**Toplam açık görev: 14**
+**Toplam açık görev: 15**
 
 ---
+
+## 📁 itu-vcamp-team/management-todo (5)
+
+- [ ] **[#94 Denetim Kurulunu ayağa kaldırmak için toplantı alınması](https://github.com/itu-vcamp-team/management-todo/issues/94)**
+  - 🏷️ label yok · 🕐 02.07.2026
+
+- [ ] **[#86 Kişilerin hangi projelerde ve yönetim ekiplerinde olduğu döküman](https://github.com/itu-vcamp-team/management-todo/issues/86)**
+  - 🏷️ label yok · 🕐 02.07.2026
+
+- [ ] **[#75 hangi durumlarda genel toplantı, çalışma saatinin yapılmayacağının belirlenmesi](https://github.com/itu-vcamp-team/management-todo/issues/75)**
+  - 🏷️ label yok · 🕐 22.06.2026
+
+- [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-todo/issues/84)**
+  - 🏷️ label yok · 🕐 22.06.2026
+
+- [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
+  - 🏷️ label yok · 🕐 28.05.2026
 
 ## 📁 itu-vcamp-team/VCAMP-Website (2)
 
@@ -39,18 +56,4 @@
 
 - [ ] **[#1 Özel sunum ve Döküman Hazırlanılması](https://github.com/gaffar-dulkadir/personal-todo/issues/1)**
   - 🏷️ label yok · 🕐 19.05.2026
-
-## 📁 itu-vcamp-team/management-todo (4)
-
-- [ ] **[#75 hangi durumlarda genel toplantı, çalışma saatinin yapılmayacağının belirlenmesi](https://github.com/itu-vcamp-team/management-todo/issues/75)**
-  - 🏷️ label yok · 🕐 22.06.2026
-
-- [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-todo/issues/84)**
-  - 🏷️ label yok · 🕐 22.06.2026
-
-- [ ] **[#86 Kişilerin hangi projelerde ve yönetim ekiplerinde olduğu döküman](https://github.com/itu-vcamp-team/management-todo/issues/86)**
-  - 🏷️ label yok · 🕐 18.06.2026
-
-- [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
-  - 🏷️ label yok · 🕐 28.05.2026
 
