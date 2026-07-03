@@ -1,17 +1,17 @@
 # 📋 Görev Özetim
 
-> 🕐 Son güncelleme: 3 Temmuz 2026 Cuma
+> 🕐 Son güncelleme: 4 Temmuz 2026 Cumartesi
 
-**Toplam açık görev: 13**
+**Toplam açık görev: 14**
 
 ---
 
 ## 📁 itu-vcamp-team/management-todo (5)
 
-- [ ] **[#94 Denetim Kurulunu ayağa kaldırmak için toplantı alınması](https://github.com/itu-vcamp-team/management-todo/issues/94)**
-  - 🏷️ label yok · 🕐 02.07.2026
-
 - [ ] **[#86 Kişilerin hangi projelerde ve yönetim ekiplerinde olduğu döküman](https://github.com/itu-vcamp-team/management-todo/issues/86)**
+  - 🏷️ label yok · 🕐 04.07.2026
+
+- [ ] **[#94 Denetim Kurulunu ayağa kaldırmak için toplantı alınması](https://github.com/itu-vcamp-team/management-todo/issues/94)**
   - 🏷️ label yok · 🕐 02.07.2026
 
 - [ ] **[#75 hangi durumlarda genel toplantı, çalışma saatinin yapılmayacağının belirlenmesi](https://github.com/itu-vcamp-team/management-todo/issues/75)**
@@ -22,6 +22,11 @@
 
 - [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
+
+## 📁 itu-vcamp-team/VCAMP-Website-Backend (1)
+
+- [ ] **[#60 vcampteam.itu.edu.tr ye de deploy edilmesi](https://github.com/itu-vcamp-team/VCAMP-Website-Backend/issues/60)**
+  - 🏷️ label yok · 🕐 03.07.2026
 
 ## 📁 gaffar-dulkadir/personal-todo (8)
 
