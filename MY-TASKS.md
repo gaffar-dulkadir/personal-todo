@@ -2,7 +2,7 @@
 
 > 🕐 Son güncelleme: 3 Temmuz 2026 Cuma
 
-**Toplam açık görev: 15**
+**Toplam açık görev: 13**
 
 ---
 
@@ -22,14 +22,6 @@
 
 - [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
-
-## 📁 itu-vcamp-team/VCAMP-Website (2)
-
-- [ ] **[#116 Old Repo](https://github.com/itu-vcamp-team/VCAMP-Website/issues/116)**
-  - 🏷️ label yok · 🕐 25.06.2026
-
-- [ ] **[#112 Google Index](https://github.com/itu-vcamp-team/VCAMP-Website/issues/112)**
-  - 🏷️ label yok · 🕐 25.06.2026
 
 ## 📁 gaffar-dulkadir/personal-todo (8)
 
