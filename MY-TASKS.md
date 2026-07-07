@@ -23,9 +23,9 @@
 - [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
 
-## 📁 itu-vcamp-team/VCAMP-Website-Backend (1)
+## 📁 itu-vcamp-team/VCAMP-Website (1)
 
-- [ ] **[#60 vcampteam.itu.edu.tr ye de deploy edilmesi](https://github.com/itu-vcamp-team/VCAMP-Website-Backend/issues/60)**
+- [ ] **[#60 vcampteam.itu.edu.tr ye de deploy edilmesi](https://github.com/itu-vcamp-team/VCAMP-Website/issues/60)**
   - 🏷️ label yok · 🕐 03.07.2026
 
 ## 📁 gaffar-dulkadir/personal-todo (8)
