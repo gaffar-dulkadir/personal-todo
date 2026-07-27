@@ -8,13 +8,13 @@
 
 ## 📁 itu-vcamp-team/management-todo (6)
 
+- [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-todo/issues/84)**
+  - 🏷️ label yok · 🕐 27.07.2026
+
 - [ ] **[#117 Medium Blog Paylaşımı - Furkan Ahmet](https://github.com/itu-vcamp-team/management-todo/issues/117)**
   - 🏷️ label yok · 🕐 13.07.2026
 
 - [ ] **[#114 Eğitim Sertifikalarının Teslimi](https://github.com/itu-vcamp-team/management-todo/issues/114)**
-  - 🏷️ label yok · 🕐 13.07.2026
-
-- [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-todo/issues/84)**
   - 🏷️ label yok · 🕐 13.07.2026
 
 - [ ] **[#86 Kişilerin hangi projelerde ve yönetim ekiplerinde olduğu döküman](https://github.com/itu-vcamp-team/management-todo/issues/86)**
