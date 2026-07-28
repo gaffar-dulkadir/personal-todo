@@ -9,7 +9,7 @@
 ## 📁 itu-vcamp-team/VCAMP-Event-Tracker (1)
 
 - [ ] **[#3 Girişimcilik 101 Eğitimi](https://github.com/itu-vcamp-team/VCAMP-Event-Tracker/issues/3)**
-  - 🏷️ label yok · 🕐 27.07.2026
+  - 🏷️ label yok · 🕐 28.07.2026
 
 ## 📁 itu-vcamp-team/management-todo (6)
 
