@@ -2,16 +2,14 @@
 
 > 🕐 Son güncelleme: 3 Ağustos 2026 Pazartesi
 
-**Toplam açık görev: 16**
+**Toplam açık görev: 17**
 
 ---
 
-## 📁 itu-vcamp-team/VCAMP-Event-Tracker (1)
+## 📁 itu-vcamp-team/management-todo (7)
 
-- [ ] **[#3 Girişimcilik 101 Eğitimi](https://github.com/itu-vcamp-team/VCAMP-Event-Tracker/issues/3)**
-  - 🏷️ label yok · 🕐 28.07.2026
-
-## 📁 itu-vcamp-team/management-todo (6)
+- [ ] **[#100 Websitenin doldurulması](https://github.com/itu-vcamp-team/management-todo/issues/100)**
+  - 🏷️ label yok · 🕐 03.08.2026
 
 - [ ] **[#84 Drive/Genel dökümanların toparlanması, one-pager'ların düzenlenmesi vs.](https://github.com/itu-vcamp-team/management-todo/issues/84)**
   - 🏷️ label yok · 🕐 27.07.2026
@@ -30,6 +28,11 @@
 
 - [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
+
+## 📁 itu-vcamp-team/VCAMP-Event-Tracker (1)
+
+- [ ] **[#3 Girişimcilik 101 Eğitimi](https://github.com/itu-vcamp-team/VCAMP-Event-Tracker/issues/3)**
+  - 🏷️ label yok · 🕐 28.07.2026
 
 ## 📁 itu-vcamp-team/VCAMP-Website (1)
 
