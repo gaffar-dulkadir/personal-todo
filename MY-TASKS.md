@@ -8,11 +8,11 @@
 
 ## 📁 itu-vcamp-team/management-todo (9)
 
+- [ ] **[#128 yeni adamlar](https://github.com/itu-vcamp-team/management-todo/issues/128)**
+  - 🏷️ label yok · 🕐 31.08.2026
+
 - [ ] **[#85 VCAMP Digital için ekip topla](https://github.com/itu-vcamp-team/management-todo/issues/85)**
   - 🏷️ label yok · 🕐 27.08.2026
-
-- [ ] **[#128 yeni adamlar](https://github.com/itu-vcamp-team/management-todo/issues/128)**
-  - 🏷️ label yok · 🕐 19.08.2026
 
 - [ ] **[#100 Websitenin doldurulması](https://github.com/itu-vcamp-team/management-todo/issues/100)**
   - 🏷️ label yok · 🕐 03.08.2026
