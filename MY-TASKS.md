@@ -2,14 +2,11 @@
 
 > 🕐 Son güncelleme: 14 Eylül 2026 Pazartesi
 
-**Toplam açık görev: 19**
+**Toplam açık görev: 18**
 
 ---
 
-## 📁 itu-vcamp-team/management-todo (9)
-
-- [ ] **[#128 yeni adamlar](https://github.com/itu-vcamp-team/management-todo/issues/128)**
-  - 🏷️ label yok · 🕐 31.08.2026
+## 📁 itu-vcamp-team/management-todo (8)
 
 - [ ] **[#85 VCAMP Digital için ekip topla](https://github.com/itu-vcamp-team/management-todo/issues/85)**
   - 🏷️ label yok · 🕐 27.08.2026
