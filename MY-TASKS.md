@@ -6,15 +6,10 @@
 
 ---
 
-## 📁 itu-vcamp-team/VCAMP-Event-Tracker (1)
-
-- [ ] **[#3 Girişimcilik 101 Eğitimi](https://github.com/itu-vcamp-team/VCAMP-Event-Tracker/issues/3)**
-  - 🏷️ label yok · 🕐 17.09.2026
-
 ## 📁 itu-vcamp-team/management-todo (8)
 
 - [ ] **[#85 VCAMP Digital için ekip topla](https://github.com/itu-vcamp-team/management-todo/issues/85)**
-  - 🏷️ label yok · 🕐 27.08.2026
+  - 🏷️ label yok · 🕐 04.10.2026
 
 - [ ] **[#100 Websitenin doldurulması](https://github.com/itu-vcamp-team/management-todo/issues/100)**
   - 🏷️ label yok · 🕐 03.08.2026
@@ -36,6 +31,11 @@
 
 - [ ] **[#19 3. Staj hedefi operasyona çevrilmeli. 10 kişi staj hedefi vardı, net aksiyon alınmadı. Bu bir koordinatöre atanmalı, her üyenin staj hedefi birer birer takip edilmeli. Hedef koymak yetmez.](https://github.com/itu-vcamp-team/management-todo/issues/19)**
   - 🏷️ label yok · 🕐 28.05.2026
+
+## 📁 itu-vcamp-team/VCAMP-Event-Tracker (1)
+
+- [ ] **[#3 Girişimcilik 101 Eğitimi](https://github.com/itu-vcamp-team/VCAMP-Event-Tracker/issues/3)**
+  - 🏷️ label yok · 🕐 17.09.2026
 
 ## 📁 itu-vcamp-team/VCAMP-Website (1)
 
