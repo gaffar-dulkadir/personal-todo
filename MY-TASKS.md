@@ -2,9 +2,17 @@
 
 > 🕐 Son güncelleme: 19 Kasım 2026 Perşembe
 
-**Toplam açık görev: 18**
+**Toplam açık görev: 20**
 
 ---
+
+## 📁 Abdullahon2006/mentor-platform (2)
+
+- [ ] **[#13 docs: align day_of_week convention in Milestone 2 with MySQL/Python implementation](https://github.com/Abdullahon2006/mentor-platform/issues/13)**
+  - 🏷️ label yok · 🕐 19.11.2026
+
+- [ ] **[#9 feat(availability): implement CQ-04 Mentor Utilization in Flask and toggle availability](https://github.com/Abdullahon2006/mentor-platform/issues/9)**
+  - 🏷️ label yok · 🕐 19.11.2026
 
 ## 📁 itu-vcamp-team/management-todo (8)
 
